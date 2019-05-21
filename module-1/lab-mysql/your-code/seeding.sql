@@ -1,7 +1,7 @@
 
 USE lab_mysql;
 
---Insertamos informacion en las tablas. 
+-- Insertamos informacion en las tablas. 
 
 INSERT INTO cars (vin, manufacturer, model, year, color) VALUES ("3K096I98581DHSNUP","Volkswagen","Tiguan","2019","Blue");
 

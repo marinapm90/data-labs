@@ -1,8 +1,8 @@
 -- Creamos la base de datos
 
-CREATE DATABASE lab-mysql;
+CREATE DATABASE lab_mysql;
 
---Seleccionamos esa base de datos
+-- Seleccionamos esa base de datos
 
 USE lab_mysql;
 
@@ -15,5 +15,4 @@ CREATE TABLE customers (customer_id VARCHAR(20), name VARCHAR(20), phone_number 
 CREATE TABLE salespersons (staff_id VARCHAR(20), name VARCHAR(20), store VARCHAR(20));
 
 CREATE TABLE invoice (invoice_number VARCHAR(20), date VARCHAR(20), car VARCHAR(20), customer VARCHAR(20), salesperson VARCHAR(20));
-
 

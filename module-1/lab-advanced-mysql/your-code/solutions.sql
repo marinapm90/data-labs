@@ -4,8 +4,8 @@
 
 SELECT titles.title_id AS 'Title ID',
 authors.au_id AS 'Author ID',
-authors.au_lname AS 'LAST NAME',
-authors.au_fname AS 'FIRST NAME',
+-- authors.au_lname AS 'LAST NAME',
+-- authors.au_fname AS 'FIRST NAME',
 titles.price * sales.qty * titles.royalty / 100 * titleauthor.royaltyper / 100 AS 'Sales_Royalty'
 
 FROM publications.authors

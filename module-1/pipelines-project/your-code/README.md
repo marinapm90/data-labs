@@ -5,6 +5,8 @@ DESCRIPCIÓN:
 
 El Data set elegido contiene los accidentes de avión producidos en todo el mundo entre el año 1970 y 1997.
 
+Se puede encontrar en el siguiente LINK: https://www.kaggle.com/budhajit/plane-crash-information-dataset#plane_crash_data.csv
+
 
 
 ARCHIVOS DEL REPOSITORIO:

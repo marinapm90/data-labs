@@ -23,11 +23,12 @@ def cleaning(my_data):
 
 def analyze(df):
     my_data = analysis.percent(df, 'Fatalities', 'Aboard')
-    my_data = analysis.filter_col(df, 'Country')
-    my_data = analysis.filter_data(df, 'Country')
+    my_data = analysis.filter_col(my_data, 'Country')
+    my_data = analysis.filter_data(my_data, 'Country')
     plot = analysis.draw_plot('Country', my_data)
     # my_data = reporting.change_null(df)
     return my_data, plot
+
 
 def report(df, plot):
 

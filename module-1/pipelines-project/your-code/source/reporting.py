@@ -2,8 +2,8 @@
 import pandas as pd
 
 
-def change_null(df):
-    return df.fillna('-')
+#def change_null(df):
+ #   return df.fillna('-')
 
 
 def download_csv(df):

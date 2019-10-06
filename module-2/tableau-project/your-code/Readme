@@ -1,0 +1,39 @@
+
+## TABLEAU PROJECT
+
+En este proyecto he creado un pequeño Dashboard con 4 gráficos para ayudarme a gestionar el negocio de los taxis ante mi nueva posición de Directora General de los taxis de Nueva York.
+
+En el primer gráfico podemos ver que la mayoría de los usuarios utilizan Credit Card, sin embargo, aún tenemos a muchos clientes que siguen prefiriendo pagar en Cash, por lo que es importante que los taxistas continuen llevando cambio para que los clientes puedan utilizar nuestros servicios sin quebraderos de cabeza.
+
+![Screenshot from 2019-10-06 12-55-41.png]
+
+En el segundo gráfico vemos como las primeras semanas del año son mucho más fuertes para el negocio. (También podría significar que desde que me ascendieron a Directora General el negocio de los taxis va de mal en peor... :) ¡pero seguro que nada tiene que ver con mi nuevo cargo! )
+
+He incorporado un filtro por semanas para poder ir llevando un seguimiento mucho más claro de lo que va pasando durante el año.
+
+![Screenshot from 2019-10-06 13-00-30.png]
+
+Un punto importante para mis taxistas son las zonas en las que los clientes dan de media las mejores propinas.
+Con este gráfico puede decirles a mis taxistas favoritos que se muevan por esas zonas y a los que no me caen tan bien que vayan por las zonas donde las propinas son más bajas.
+
+![imagen]
+
+También hay un filtro para poder seleccionar las zonas con propinas más altas o más bajas.
+
+![imagen]
+
+Y para terminar en el último gráfico podemos encontrar un heatmap con las zonas en las que los que el total_amount del viaje suele ser más alto.
+
+![imagen]
+
+(Hay un problema con Tableau Public y se ve prácticamente todo igual pero en realidad se debería ver lo mismo que tenía en Tableau Desktop, tal y como muestro en la siguiente imagen).
+
+![imagen]
+
+
+Y con estos 4 gráficos tengo la seguridad de poder gestionar completamente mi negocio de Taxis.
+
+
+
+
+

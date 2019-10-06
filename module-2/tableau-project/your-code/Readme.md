@@ -1,0 +1,39 @@
+#TABLEAU PROJECT
+
+En este proyecto he creado un pequeño Dashboard con 4 gráficos para ayudarme a gestionar el negocio de los taxis ante mi nueva posición de Directora General de los taxis de Nueva York.
+
+![texto](https://raw.githubusercontent.com/JavierLuna/data-labs/5aef472422d7d5559465048fcd25117ead8ea93c/module-2/tableau-project/your-code/imagenes_readme/Screenshot%20from%202019-10-06%2012-34-09.png)
+
+En el primer gráfico podemos ver que la mayoría de los usuarios utilizan Credit Card, sin embargo, aún tenemos a muchos clientes que siguen prefiriendo pagar en Cash, por lo que es importante que los taxistas continuen llevando cambio para que los clientes puedan utilizar nuestros servicios sin quebraderos de cabeza.
+
+![texto](https://raw.githubusercontent.com/marinapm90/data-labs/5aef472422d7d5559465048fcd25117ead8ea93c/module-2/tableau-project/your-code/imagenes_readme/Screenshot%20from%202019-10-06%2012-55-41.png)
+
+En el segundo gráfico vemos como las primeras semanas del año son mucho más fuertes para el negocio. (También podría significar que desde que me ascendieron a Directora General el negocio de los taxis va de mal en peor... :) ¡pero seguro que nada tiene que ver con mi nuevo cargo! )
+
+He incorporado un filtro por semanas para poder ir llevando un seguimiento mucho más claro de lo que va pasando durante el año.
+
+![texto](https://raw.githubusercontent.com/marinapm90/data-labs/5aef472422d7d5559465048fcd25117ead8ea93c/module-2/tableau-project/your-code/imagenes_readme/Screenshot%20from%202019-10-06%2013-00-30.png)
+
+Un punto importante para mis taxistas son las zonas en las que los clientes dan de media las mejores propinas.
+Con este gráfico puede decirles a mis taxistas favoritos que se muevan por esas zonas y a los que no me caen tan bien que vayan por las zonas donde las propinas son más bajas.
+
+![texto](https://raw.githubusercontent.com/marinapm90/data-labs/5aef472422d7d5559465048fcd25117ead8ea93c/module-2/tableau-project/your-code/imagenes_readme/Screenshot%20from%202019-10-06%2013-06-12.png)
+
+También hay un filtro para poder seleccionar las zonas con propinas más altas o más bajas.
+
+![texto](https://raw.githubusercontent.com/marinapm90/data-labs/5aef472422d7d5559465048fcd25117ead8ea93c/module-2/tableau-project/your-code/imagenes_readme/Screenshot%20from%202019-10-06%2013-07-39.png)
+
+Y para terminar en el último gráfico podemos encontrar un heatmap con las zonas en las que los que el total_amount del viaje suele ser más alto.
+
+![texto](https://raw.githubusercontent.com/marinapm90/data-labs/5aef472422d7d5559465048fcd25117ead8ea93c/module-2/tableau-project/your-code/imagenes_readme/Screenshot%20from%202019-10-06%2013-15-06.png)
+
+(Hay un problema con Tableau Public y se ve prácticamente todo igual pero en realidad se debería ver lo mismo que tenía en Tableau Desktop, tal y como muestro en la siguiente imagen).
+
+![texto](https://raw.githubusercontent.com/marinapm90/data-labs/5aef472422d7d5559465048fcd25117ead8ea93c/module-2/tableau-project/your-code/imagenes_readme/Screenshot%20from%202019-10-06%2013-11-16.png)
+
+
+Y con estos 4 gráficos tengo la seguridad de poder gestionar completamente mi negocio de Taxis.
+
+![texto](https://image.posta.com.mx/sites/default/files/styles/full_article_desktop/public/despilfarro.jpg)
+
+
